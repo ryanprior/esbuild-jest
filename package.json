@@ -2,7 +2,7 @@
   "name": "esbuild-jest",
   "version": "0.2.3",
   "description": "Jest plugin to use esbuild for transformation",
-  "main": "esbuild-jest.js",
+  "main": "dist/esbuild-jest.js",
   "module": "esbuild-jest.es.js",
   "typings": "esbuild-jest.d.ts",
   "scripts": {
